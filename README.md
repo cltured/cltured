@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=cltured&color=red)
 <h1>About me</h1>
 <h5>Hey, I'm gho; also known as clt, or fault. I am a front end web developer who also has an interest in software development. I'm starting to go into back end web development as i see it as needed in web development, I know languages such as, HTML, CSS, PHP, JS, Kotlin, and more.</h5>
 
