@@ -17,7 +17,7 @@ My Current Projects are:
 [![Discord Presence](https://lanyard.cnrad.dev/api/927973453762555934)](https://discord.com/users/927973453762555934)
 
 <h1>Education</h1>
-<h5>I currently attend college for computer science and cybersecurity. I'm currently in my first year of college, I left school in July</h5>
+<h5>I currently attend college part time for computer science and cybersecurity. I plan into going into full time when i finish my GCSE's.</h5>
 <h5>I'm currently doing my GCSE's, and I'm aiming to go into a job involving full stack web development.</h5>
 
 <h1>Contact me</h1>
